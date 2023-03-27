@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey there 👋
 
-<!--
-**Aurase-xnx/Aurase-xnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm Dilhan and I'm becoming a full stack dev.
+I used to be told a lot that I should work with computers because I was some sort of a "nerd" growing up, they were right.
 
-Here are some ideas to get you started:
+Big thanks to everyone who thought that I wouldn't make it, you just made me want to climb higher !✌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Currently working as an intern at MIC
+## ⚡ Fun fact
+I sometime forget my own name while also being able to remember something from ages ago with too much precision.
+
+# 📬 How to reach me 
+
+- Here, on github !
+- <a href="https://www.linkedin.com/in/dilhan-eser/" target="blank">LinkedIn</a>
+- <a href="https:https://www.instagram.com/xanhacks/" target="blank">Instagram</a>
+- <a href="https://soundcloud.com/xanhacks" target="blank">Soundcloud</a>
