@@ -15,5 +15,5 @@ I sometime forget my own name while also being able to remember something from a
 
 - Here, on github !
 - <a href="https://www.linkedin.com/in/dilhan-eser/" target="blank">LinkedIn</a>
-- <a href="https:https://www.instagram.com/xanhacks/" target="blank">Instagram</a>
+- <a href="https://www.instagram.com/xanhacks/" target="blank">Instagram</a>
 - <a href="https://soundcloud.com/xanhacks" target="blank">Soundcloud</a>
