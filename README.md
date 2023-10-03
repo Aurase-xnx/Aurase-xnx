@@ -7,7 +7,7 @@ I used to be told a lot that I should work with computers because I was some sor
 Big thanks to everyone who thought that I wouldn't make it, you just made me want to climb higher !✌️
 
 
-- 🔭 Currently working as an intern at MIC
+- 🔭 Currently working as an intern at EONIX
 ## ⚡ Fun fact
 I sometime forget my own name while also being able to remember something from ages ago with too much precision.
 
